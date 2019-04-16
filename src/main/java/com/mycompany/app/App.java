@@ -17,5 +17,7 @@ public class App
     private final String getMessage() {
         return message;
     }
-
+    private final String getMessage1() {
+        return "This is to test";
+    }
 }

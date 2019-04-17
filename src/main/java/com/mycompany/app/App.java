@@ -18,6 +18,9 @@ public class App
         return message;
     }
     private final String getMessage1() {
-        return "This is to test";
+        return "This is to test1";
+    }
+    private final String getMessage2() {
+        return "This is to test2";
     }
 }
